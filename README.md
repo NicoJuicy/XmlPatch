@@ -1,5 +1,11 @@
-JSON Patch for .NET (Web API / clients)
+XML Patch for .NET (Web API / clients)
 =======================================
+
+This library is based on https://github.com/KevinDockx/JsonPatch and uses a XML syntax with respect to the RFC 6902 standard.
+
+Below is the original documentation for Json
+
+===
 
 JSON Patch (JsonPatchDocument) RFC 6902 implementation for .NET to easily allow & apply partial REST-ful service (through Web API) updates from any client (portable class library).  
 
